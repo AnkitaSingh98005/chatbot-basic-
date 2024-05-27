@@ -1,0 +1,27 @@
+Nobody likes to be alone always, but sometimes loneliness could be a better medicine to hunch the thirst for a peaceful environment. Even during such lonely quarantines, we may ignore humans but not humanoids. Yes, if you have guessed this article for a chatbot, then you have cracked it right. We won’t require 6000 lines of code to create a chatbot but just a six-letter word “Python” is enough. Let us have a quick glance at Python’s ChatterBot to create our bot. ChatterBot is a Python library built based on machine learning with an inbuilt conversational dialog flow and training engine. The bot created using this library will get trained automatically with the response it gets from the user. 
+chatbot is an ai tool where ai communicates with users rather humans. hehe
+
+Why Chatbots are important for a Business or a Website
+Quick resolution for a complaint or a problem.
+Improve business branding thereby achieving great customer satisfaction.
+Answering questions and answers for customers.
+Making a reservation at hotel or at restaurant.
+Save human effort 24×7.
+Enhance business revenue by providing ideas and inspirations. 
+Finding details about business such as hours of operation, phone number and address.
+Automate sales and lead generation process.
+Reduce customer agents waiting time answering phone calls. 
+Benefits of using Chatbots
+24×7 availability.
+Instant answers to queries.
+Support multi-language to enhance businesses.
+Simple and Easy to Use UI to engage more customers.
+Cost effective and user interactive.
+Avoid communication with call agents thereby reducing the time consuming tasks.
+Understand the Customer behavior
+Increase sales of business by offering promo codes or gifts. 
+Types of Chatbots
+Chatbots deliver instantly by understanding the user requests with pre-defined rules and AI based chatbots. There are two types of chatbots. 
+
+Rule Based Chatbots: This type of chatbots answer the customer queries using the pre-defined rules. These bots answer common queries such as hours of operation of business, addresses,  phone numbers and tracking status.   
+Conversational AI Chatbots: This type of chatbots using Natural language Processing(NLP) to understand the context and intent of  a user input before providing the response. These Bots train themselves as per the user inputs and more they learn, more they become user interactive.
